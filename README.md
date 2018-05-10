@@ -1,6 +1,6 @@
 # Frequency Analysis of Words
 
-[TODO. There will be project description]
+This script displays the top 10 most popular words in any text
 
 # Project Goals
 
